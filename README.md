@@ -52,6 +52,9 @@ The implementation is related to the following papers:
   <img src="./img/tensorboard.png" width="80%" height="80%"> 
 </p>
 
+## Slides
+[hybrid_recsys_slides](https://github.com/ChienTeLee/hybrid_recommendation_system/blob/master/hybrid_recsys_slides.pdf)
+
 
 ## Reference
 This project is inspired by the following resources:
