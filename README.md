@@ -53,7 +53,7 @@ The implementation is related to the following papers:
 </p>
 
 ## Slides
-[hybrid_recsys_slides](https://github.com/ChienTeLee/hybrid_recommendation_system/blob/master/hybrid_recsys_slides.pdf)
+[hybrid_recsys_slides](https://drive.google.com/file/d/1Q5L_IpIJNyQkw8NLAsF5DjX2lg1WgLTJ/view?usp=sharing)
 
 
 ## Reference
